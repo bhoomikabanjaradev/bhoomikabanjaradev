@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm Bhoomika Banjara  
 
-<!--
-**bhoomikabanjaradev/bhoomikabanjaradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Tech CSE Student at BBAU (Central University)**  
+💻 **Aspiring Software Engineer | Tech Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 About Me  
+
+- Exploring **Web Development** (HTML, CSS)  
+- Learning **Cloud Computing** ☁️  
+- Certified in **AI Fundamentals by Databricks and Hp** 🤖  
+- Practicing **DSA with C++**  
+- Know **Python, C++, SQL**  
+- Passionate about learning and building impactful tech projects  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Languages:** C++, Python, SQL  
+**Web:** HTML, CSS (in progress)  
+**Cloud:** Google Cloud Arcade games , Microsoft Learn Sandbox 
+**Interests:** Web Dev | Cloud | AI | DSA  
+
+---
+
+## 📫 Connect With Me  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/bhoomika-banjara-763016382
+)  
+- 🐙 [GitHub](https://github.com/bhoomikabanjaradev
+)  
+
+---
+
+⭐ *“Always curious to learn, code, and create something meaningful!”*
