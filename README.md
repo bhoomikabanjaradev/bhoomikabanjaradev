@@ -3,9 +3,17 @@
 I'm Bhoomika Banjara, a BTech CSE Undergrad 🎓.<br> I am passionate about Web Development, Agentic AI and Cybersecurity .<br>
 <br>
 🌐 My passion is to turn ideas into real-world problem solving Product. My goal is to leverage technology to create meaningful and innovative solutions .</h2>
+<div align="center">
+
+   Visit My Portfolio
+  
+  [![Website](https://img.shields.io/badge/bhoomikabanjara.xyz-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.bhoomikabanjara.xyz/)
+
+</div>
 <img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif">
 
 <img align="right" height="130" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Nmp2cm5oNDF2ZTRzN3p3MmFqY2tpenYyemNrdDFzNTBiNmUwN2xmOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HscDLzkO8EOTmgkhQP/giphy.gif" />
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="mongodb logo" />
