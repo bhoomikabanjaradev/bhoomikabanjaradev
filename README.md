@@ -60,7 +60,7 @@ I'm Bhoomika Banjara, a BTech CSE Undergrad 🎓.<br> I am passionate about Web 
 <div align="left">
   <a href="https://discordapp.com/users/bhoomikabanjara2829"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
   <a href="https://www.linkedin.com/in/bhoomika-banjara-763016382/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" /></a>
-  <img src="https://camo.githubusercontent.com/82dc63b8cccf0712e6cb11bf31b5f8c7ac8bd3f21852dd07d0db419cafaf480e/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383836363937332f383933342f68656c6c6f6b6974747964616e63652e6769663f31353838383636393733" alt="Hi" data-canonical-src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+  
 </div>
 
 <br clear="both">
