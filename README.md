@@ -2,9 +2,11 @@
 <h2 align="left">Hi viewer  ! <br>
 I'm Bhoomika Banjara, a BTech CSE Undergrad 🎓.<br> I am passionate about Web Development, Agentic AI and Cybersecurity .<br>
 <br>
-🌐 My passion is to turn ideas into real-world problem solving Product. My goal is to leverage technology to create meaningful and innovative solutions .</h2>
-<div align="center">
+🌐 My passion is to turn ideas into real-world problem solving Product. My goal is to leverage technology to create meaningful and innovative solutions .
+<br><br>
+</h2>
 
+<div align="center">
    Visit My Portfolio
   
   [![Website](https://img.shields.io/badge/bhoomikabanjara.xyz-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.bhoomikabanjara.xyz/)
