@@ -1,6 +1,6 @@
 
 <h2 align="left">Hi viewer  ! <br>
-I'm Bhoomika Banjara, a BTech CSE Undergrad 🎓.<br> I am passionate about Web Development, Agentic AI and Cybersecurity .<br>
+I'm Bhoomika Banjara, a BTech CSE Undergrad 🎓.<br> I am passionate about Web Development, Agentic AI and Cloud Computing .<br>
 <br>
 🌐 My passion is to turn ideas into real-world problem solving Product. My goal is to leverage technology to create meaningful and innovative solutions .
 <br><br>
